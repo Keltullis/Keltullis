@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keltullis</h1>
 <h3 align="center">I am a junior web developer with a passion for creating responsive and user-friendly web applications. I have experience with HTML, CSS, and Python, and I'm  with framework like Django. I enjoy learning new technologies and contributing to projects that allow me to grow my skills while working collaboratively in a team environment.</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=keltullis&label=Profile%20views&color=0e75b6&style=flat" alt="keltullis" /></p>
-
 - 🔭 I’m currently working on **LearnVibe (courses for student)**
 
 - 🌱 I’m currently learning **Django, python**
